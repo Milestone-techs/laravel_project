@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is the index page</h1>
-    <ul>
+   
     
 <li>{{$task->is_completed}}</li>
 <li>{{$task->name}}</li>
