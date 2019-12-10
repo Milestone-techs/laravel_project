@@ -3,7 +3,6 @@
 @section('content')
   @include('partials.header')
   @include('partials.sidenave')
-     
         <div class="content-padder content-background">
             <div class="uk-section-small uk-section-default header">
                 <div class="uk-container uk-container-large">
